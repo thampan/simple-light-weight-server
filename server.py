@@ -1,6 +1,4 @@
 #/***************************************************************************
-#============= Copyright by Darmstadt University of Applied Sciences =======
-#***************************************************************************
 # Filename        : server.py
 # Author          : Jishnu M Thampan
 # Description     : Simple script to host your workspace into an ftp server.
