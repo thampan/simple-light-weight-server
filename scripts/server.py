@@ -1,9 +1,4 @@
-#/***************************************************************************
-# Filename        : server.py
-# Author          : Jishnu M Thampan
-# Description     : Simple script to host your workspace into an ftp server.
-#					Server could be accessible by navigating to locaalhost:80
-#***************************************************************************/
+#!/usr/bin/env python3
 
 import os, sys
 from http.server import HTTPServer, CGIHTTPRequestHandler
