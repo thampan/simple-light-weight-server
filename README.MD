@@ -4,6 +4,6 @@ Upon execution, a simple http server would be up and running which enables you t
 other users in your home network
 
 Setup:
-Linux  : scripts/run.sh
 ------------------------
+Linux  : scripts/run.sh
 Windows: System installed with Python 3.1 and above; Run setup.py
